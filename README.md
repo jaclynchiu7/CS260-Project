@@ -4,5 +4,6 @@ Generating product advertisements for companies is an inefficient and difficult 
 
 # Examples of Training Images 
 ![training_1!](Model Output /readme/yeti_2.jpg)
+![yeti_2](https://user-images.githubusercontent.com/72675054/228394871-55ec6491-da13-422d-9dd8-b3023ebd5320.jpg)
 
 # Example of Output Images from Model 
